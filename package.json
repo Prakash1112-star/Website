@@ -1,8 +1,12 @@
+
 {
-  "name": "ReelNRG",
-  "version": "0.0.1",
+  "name": "WebSite",
+  "version": "0.0.3",
   "engines": {
     "node": ">=0.10.0"
+  },
+  "scripts": {
+    "start": "node server.js"
   },
   "dependencies": {
     "body-parser": "^1.15.2",
