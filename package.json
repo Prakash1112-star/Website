@@ -12,7 +12,7 @@
     "body-parser": "^1.15.2",
     "convert-excel-to-json": "^1.4.0",
     "express": "^4.17.1",
-    "express-jwt": "^3.4.0",
+    "express-jwt": "^6.0.0",
     "express-session": "^1.14.0",
     "grunt-cache-breaker": "^2.0.1",
     "grunt-contrib-concat": "^1.0.1",
